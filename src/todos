@@ -1,0 +1,8 @@
+Data Ingestion 
+    Todos:
+    1. Connect to MongoDb
+    2. Extract data from MongoDb
+    3. Convert MongoDb schema to sql schema
+    4. Save the raw file somewhere
+    5. Split the file into training and test set
+    6. save it somewhere
